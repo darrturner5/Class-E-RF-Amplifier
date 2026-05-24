@@ -24,7 +24,7 @@ Designed circuit components:
 <img width="2100" height="1576" alt="IMG_8822" src="https://github.com/user-attachments/assets/2bfcee57-f1eb-43b0-b895-fe687b74a599" />
 
 
-For my air core inductors, I took the formula from the ARRL Handbook for Radio Communications when it solved for inductance, given the diameter, number of turns and the inductor lenth.
+For my air core inductors, I took the formula from the ARRL Handbook for Radio Communications which solved for inductance, given the diameter, number of turns and the inductor lenth.
 
 I rearranged the formula for the number of turns since I already have a set inductance of 250kHz and can choose my inductor diameter and inductor length.
   
