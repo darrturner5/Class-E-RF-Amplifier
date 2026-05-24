@@ -17,11 +17,10 @@ Designed circuit components:
 - Series tuned inductor: 17.63uH (Air Core Inductor)
 - Resistive load 5.5 ohms
 
-<img width="2100" height="1576" alt="IMG_8822 2" src="https://github.com/user-attachments/assets/8e0de23d-37dc-4149-8ae6-5cf9d0a1748d" />
+<img width="2110" height="1568" alt="IMG_8824" src="https://github.com/user-attachments/assets/ddc0c451-c61d-4a3a-b30e-ccfc60f8407f" />
 <img width="1576" height="2100" alt="IMG_8819" src="https://github.com/user-attachments/assets/0b097080-7252-46be-bf6c-f6c4b700973e" />
 <img width="1576" height="2100" alt="IMG_8820" src="https://github.com/user-attachments/assets/03e96e5c-960b-459f-8915-e3f80085e1c3" />
 <img width="1576" height="2100" alt="IMG_8821" src="https://github.com/user-attachments/assets/8e3c8832-5137-4447-b72a-53b5f6fb972d" />
-<img width="2100" height="1576" alt="IMG_8822" src="https://github.com/user-attachments/assets/2bfcee57-f1eb-43b0-b895-fe687b74a599" />
 
 
 For my air core inductors, I took the formula from the ARRL Handbook for Radio Communications which solved for inductance, given the diameter, number of turns and the inductor lenth.
