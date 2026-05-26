@@ -35,6 +35,9 @@ In Falstad Circuit Simulator, I can see the circuit in first hand and fine tune 
 
 <img width="800" height="521" alt="image" src="https://github.com/user-attachments/assets/d094dbe6-02ef-4198-bfe1-80ce9430ac57" />
 
+- Drain Voltage is 47V
+
+
 
 
 
