@@ -30,4 +30,11 @@ I rearranged the formula for the number of turns since I already have a set indu
 <img width="1551" height="1317" alt="IMG_8823" src="https://github.com/user-attachments/assets/cbfb83b7-b7eb-4c65-9762-b2728f76ee51" />
 
 
+In Falstad Circuit Simulator, I can see the circuit in first hand and fine tune it.
+
+
+<img width="800" height="521" alt="image" src="https://github.com/user-attachments/assets/d094dbe6-02ef-4198-bfe1-80ce9430ac57" />
+
+
+
 
