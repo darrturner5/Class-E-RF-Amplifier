@@ -36,6 +36,8 @@ In Falstad Circuit Simulator, I can see the circuit in first hand and fine tune 
 <img width="800" height="521" alt="image" src="https://github.com/user-attachments/assets/d094dbe6-02ef-4198-bfe1-80ce9430ac57" />
 
 - Drain Voltage is 47V
+- When the MOSFET turns on it is really close to zero but not fully zero 300mV - 1.5V range 
+- Power rating across the 5.5 Resistor load is around 13W when MOSFET turns off
 
 
 
