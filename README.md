@@ -41,7 +41,7 @@ In Falstad Circuit Simulator, I can see the circuit in first hand and fine tune 
 - As the MOSFET turns linear, drain to source current peaks to about 2A while voltage is near zero.
 - As the MOSFET turns off, drain to source voltage peaks to 47V while current is near zero. We are achieving zero voltage switching.
 
-[![CLASS E RF AMPLIFIER SIMULATION](https://img.youtube.com/vi/REJCsYbso4U/0.jpg)](https://www.youtube.com/watch?v=REJCsYbso4U
+[![CLASS E RF AMPLIFIER SIMULATION](https://img.youtube.com/vi/REJCsYbso4U/0.jpg)](https://www.youtube.com/watch?v=REJCsYbso4U)
 
 
 
