@@ -39,12 +39,27 @@ In Falstad Circuit Simulator, I can see the circuit in first hand and fine tune 
 - When the MOSFET turns on it is really close to zero but not fully zero 300mV - 1.5V range 
 - Power rating across the 5.5 Resistor load is around 13W when MOSFET turns off
 - As the MOSFET turns linear, drain to source current peaks to about 2A while voltage is near zero.
-- As the MOSFET turns off, drain to source voltage peaks to 47V while current is near zero. 
+- As the MOSFET turns off, drain to source voltage peaks to 47V while current is near zero.
+- VDS seems to be rising as current approaches zero. (Power Dissipation)
 
 
 *VIDEO BELOW:*
 
 [![CLASS E RF AMPLIFIER SIMULATION](https://img.youtube.com/vi/REJCsYbso4U/0.jpg)](https://www.youtube.com/watch?v=REJCsYbso4U)
+
+
+
+
+# Simulation Notes
+*While the 5.5 ohm resistor load is ideal for the circuit, I dont have a 5.5 ohm load, instead Ill get a 5ohm power resistor and use it for the load.*
+
+- 5 OHM LOAD:
+- 45V Drain voltage max
+- 150mV - 1.6V Drain voltage when MOSFET is on
+- Drain Voltage rises slightly as current is falling (Power Dissipation)
+- Peak output power around 12.8W
+- IDS (Current Drain to Source) still peaks around 2A
+- Input current 80mA - 891mA
 
 
 
