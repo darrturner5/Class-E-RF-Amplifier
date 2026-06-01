@@ -51,7 +51,7 @@ In Falstad Circuit Simulator, I can see the circuit in first hand and fine tune 
 
 
 # Simulation Notes
-*While the 5.5 ohm resistor load is ideal for the circuit, I dont have a 5.5 ohm load, instead Ill get a 5ohm power resistor and use it for the load.*
+*While the 5.5 ohm resistor load is ideal for the circuit, I dont have a 5.5 ohm load, instead I will use a 5 ohm power resistor and use it for the load.*
 
 - 5 OHM LOAD:
 - 45V Drain voltage max
